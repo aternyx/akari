@@ -2,7 +2,8 @@
 A fully customizable VSH menu with multiple functionalities.
 (don't use it, it's garbage)
 
-This is a reupload of the source as Jordy Nateur (the original owner of this) deleted its github account
+### Disclaimer
+I do not own this source code, I reuploaded the source on github as Jordy Nateur (the original owner of this) deleted its github account.
 
 ## Notes
 - Supports only 720p/1080p
